@@ -1,0 +1,7 @@
+{
+    "name": "GCM Nonce Reuse Lab",
+    "description": "The hacking lab for nonce-reuse attack in GCM mode",
+    "repository": "https://github.com/suam-team/gcm-nonce-reuse-lab",
+    "logo": "https://suam.wtf/favicon-32x32.png",
+    "keywords": ["hacking", "lab", "crypto"]
+}

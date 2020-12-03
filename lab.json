@@ -1,0 +1,7 @@
+{
+    "name": "GCM Nonce Reuse Lab",
+    "category": "Crypto",
+    "author": "bongtrop",
+    "flag": "e771f4dc2ad322f2bc218f3b3c3f39cb,5f1154b85e9dcfab72bfbfa20f08a24f,ba31307b4c95a2434f78f2327884dff5,1f8b4fcf5a237c7e62f125e12848cfa2b2c0e4845499b319404360ef324a56baceddae0542b3bb19914efd7273580ec128a10495faf838b8d27f9bd2,a71f8b9fea8f19f651fc0fd2fe55c1af",
+    "detail": "The hacking lab for nonce-reuse attack in GCM mode"
+}
